@@ -2,7 +2,7 @@
 
 Literally, a clone of Hastebin
 
-Hastebin's [official site](https://www.toptal.com/developers/hastebin/about.md)
+Hastebin's [official site](https://hastebin.com/about.md)
 
 # Setup
 
